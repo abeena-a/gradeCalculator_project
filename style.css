@@ -1,11 +1,18 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 40px;
-  background-color: #1c1b1b;
-  color: #333;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #1c1b1b;
+    color: #333;
 }
 
 h1 {
-  color: #f6f7f9;
-  text-align: center;
+    color: #f6f609;
+    text-align: center;
+    font-weight: 800;
+}
+
+h4 {
+    color: #f6f609;
+    text-align: center;
+    font-style: italic;
 }
